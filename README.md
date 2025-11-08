@@ -7,6 +7,6 @@
 
 [DATA2500 Operating Systems](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST), [DATS2300 Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2024/H%C3%98ST), [DATA1500 Databases](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2023/H%C3%98ST), [DATA1100 Technology and Society for Programmers](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1100/2025/H%C3%98ST), [DAPE1400 Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2023/H%C3%98ST), [DAPE1300 Discrete Mathematics](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2023/H%C3%98ST), [DAFE1000 Mathematics 1000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1000/2023/H%C3%98ST), [DAPE2000 Mathematics 2000 with Statistics](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST), [DAPE3000 Mathematics 2000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST), [DAPE4000 Mathematics 2000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST), Avmod, statas, [DAVE3625 Introduction to Artificial Intelligence](https://github.com/PerErikGronvik/Introduksjon-til-kunstig-intelligens/blob/main/README.md), datascience prosjekt, Bachelor
 
-| Project 1 | Project 2 || Project 3 |
-|--------------------------------||--------------------------------||--------------------------------|
-| about  | about    || about |
+| Project 1 | Project 2 | Project 3 |
+|------------------------|------------------------|------------------------|
+| about      | about      | about      |
