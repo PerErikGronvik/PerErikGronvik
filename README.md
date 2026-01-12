@@ -56,5 +56,5 @@ Events 2025
 
 Events 2026
 - AI Women Norway - Showcase - Hosted by a friend
-- Ditio ∧ - Foredrag: Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet - Hosted by me and Ditio 
+- ↇitio - Foredrag: Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet - Hosted by me and Ditio 
 - 
