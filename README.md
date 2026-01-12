@@ -47,6 +47,8 @@ Events 2025
 - SHE Conference 2025
 - Mad ⚫ Meetup #21 Torsdag, 26. juni
 - Mad ⚫ - Meetup #22: Robotics and Audio Torsdag, 4. september 
+- Næringslivsdagen OsloMet
+- Dagen @ IFI UIO
 - Utviklere som samfunnsbyggere - Tekna
 - Økonomi for små foreninger - SIO
 - Bedriftspresentasjon med Thales - OTS
