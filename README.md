@@ -5,8 +5,30 @@
 
 ## Currently studying at Oslo Metropolitan University (OsloMet)
 
-[DATA2500 Operating Systems](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST), [DATS2300 Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2024/H%C3%98ST), [DATA1500 Databases](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2023/H%C3%98ST), [DATA1100 Technology and Society for Programmers](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1100/2025/H%C3%98ST), [DAPE1400 Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2023/H%C3%98ST), [DAPE1300 Discrete Mathematics](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2023/H%C3%98ST), [DAFE1000 Mathematics 1000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1000/2023/H%C3%98ST), [DAPE2000 Mathematics 2000 with Statistics](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST), [DAPE3000 Mathematics 2000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST), [DAPE4000 Mathematics 2000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST), [MAMO2200 Avansert modellering og beregninger](https://student.oslomet.no/studier/-/studieinfo/emne/MAMO2200/2025/H%C3%98ST) , statas, [DAVE3625 Introduction to Artificial Intelligence]([https://github.com/PerErikGronvik/Introduksjon-til-kunstig-intelligens/blob/main/README.md](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2025/H%C3%98ST),datascience prosjekt, Bachelor
+[DAPE1400 Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2023/H%C3%98ST)
+[DATA1100 Technology and Society for Programmers](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1100/2025/H%C3%98ST)
+[DATA1500 Databases](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2023/H%C3%98ST)
+[DATA2500 Operating Systems](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST)
+[DATS2300 Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2024/H%C3%98ST)
+[DAPE1300 Discrete Mathematics](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2023/H%C3%98ST)
+[MAMO2100 Quantum mechanics](https://student.oslomet.no/en/studier/-/studieinfo/emne/MAMO2100/2024/H%C3%98ST)
+[DAFE1000 Mathematics 1000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1000/2023/H%C3%98ST)
+[DAPE2000 Mathematics 2000 with Statistics](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE2000/2024/H%C3%98ST)
+[DAVE3700 Matematikk 3000](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3700/2025/H%C3%98ST)
+[DAVE3705 Mathematics 4000](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3705/2025/H%C3%98ST)
+[MAMO2200 Avansert modellering og beregninger](https://student.oslomet.no/studier/-/studieinfo/emne/MAMO2200/2025/H%C3%98ST)
+[MAMO3100 Statistisk analyse](https://student.oslomet.no/studier/-/studieinfo/emne/MAMO3100/2024/H%C3%98ST)
+[DAVE3625 Introduction to Artificial Intelligence](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2025/H%C3%98ST)
+[DATA3750 Anvendt kunstig intelligens og data science prosjekt](https://student.oslomet.no/studier/-/studieinfo/emne/DATA3750/2025/H%C3%98ST)
+[DATA3900 Bachelor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2025/H%C3%98ST)
 
 Self made and gathered Course material:
 [DAVE3625 Introduction to Artificial Intelligence](https://github.com/PerErikGronvik/Introduksjon-til-kunstig-intelligens/blob/main/README.md)
+MAMO3100 Statistisk analyse: Will be published after exams. 
 
+Entire self made self study not an offiacial course material
+How to convert datascience and AI enginering to net gains in companies: In progress will be renamed.
+
+Projects:
+DATA3750 Anvendt kunstig intelligens og data science prosjekt - Will be published after NDA expires
+[DATA3900 Bachelor Thesis] - Will be fully public
