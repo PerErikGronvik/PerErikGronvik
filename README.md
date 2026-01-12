@@ -6,6 +6,7 @@
 ## Currently studying at Oslo Metropolitan University (OsloMet)
 
 [DAPE1400 Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2023/H%C3%98ST)
+
 [DATA1100 Technology and Society for Programmers](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1100/2025/H%C3%98ST)
 [DATA1500 Databases](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2023/H%C3%98ST)
 [DATA2500 Operating Systems](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST)
