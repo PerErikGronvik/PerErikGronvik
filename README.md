@@ -31,7 +31,7 @@ Entire self made self study not an offiacial course material
 
 Projects:
 - DATA3750 Anvendt kunstig intelligens og data science prosjekt - Will be published after NDA expires
-- DATA3900 Bachelor Thesis - Will be fully public
+- [DATA3900 Bachelor Thesis](https://github.com/Aryokh04/jamph-sql-ki-assistent)
 - My own version of open notebook for reshaped for a different usecase.
 - Started creating my own model that is 100% gdpr and copyright since that does not exist. Do you have money or compute ?
 
