@@ -31,13 +31,14 @@ Entire self made self study not an offiacial course material
 
 Projects:
 - DATA3750 Anvendt kunstig intelligens og data science prosjekt - Will be published after NDA expires
-- [DATA3900 Bachelor Thesis](https://github.com/Aryokh04/jamph-sql-ki-assistent)
+- [DATA3900 Bachelor Thesis](https://github.com/Aryokh04/jamph-sql-ki-assistent/blob/main/README.md)
 - My own version of open notebook for reshaped for a different usecase.
 - Started creating my own model that is 100% gdpr and copyright since that does not exist. Do you have money or compute ?
+- MAMO2100 Quantum mechanics project
 
 Hackatons:
-- LLama Hackaton 2025 by Meta 1 - 3 Februar - top 6
-- Service now 2025 Oslo 14 -16 Mars - 1 Place
+- LLama Hackaton 2025 by Meta 1 - 3 Februar 2025 - top 6
+- Service now 2025 Oslo 14 -16 Mars 2025 - 1 Place
 - Telenor and Schanider hackaton - Student hub and Nito - Oslo 2025 -_- Had fun thou :)
 
 Events 2025
@@ -57,4 +58,4 @@ Events 2025
 Events 2026
 - AI Women Norway - Showcase - Hosted by a friend
 - ↇitio - Foredrag: Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet - Hosted by me and Ditio 
-- 
+- ↇitio - Beddriftpresentasjon med Gjensidige
