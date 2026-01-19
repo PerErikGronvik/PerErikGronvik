@@ -50,6 +50,7 @@ Events 2025
 - Mad ⚫ - Meetup #22: Robotics and Audio Torsdag, 4. september 
 - Næringslivsdagen OsloMet
 - Dagen @ IFI UIO
+- Data Saturday, 30 August 2025
 - Utviklere som samfunnsbyggere - Tekna
 - Økonomi for små foreninger - SIO
 - Bedriftspresentasjon med Thales - OTS
