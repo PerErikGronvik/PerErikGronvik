@@ -26,14 +26,14 @@ Self made and gathered Course material:
 - [DAVE3625 Introduction to Artificial Intelligence](https://github.com/PerErikGronvik/Introduksjon-til-kunstig-intelligens/blob/main/README.md)
 - MAMO3100 Statistisk analyse: Will be published after exams. 
 
-Entire self made self study not an offiacial course material
-- How to convert datascience and AI enginering to net gains in companies: In progress will be renamed.
+Entire self made self study not offiacial course material
+- How to convert datascience and AI enginering to net gains in companies: In progress will be renamed. ML OPS. MLFLOW. coolstuff comming.
 
 Projects:
 - DATA3750 Anvendt kunstig intelligens og data science prosjekt - Will be published after NDA expires
 - DATA3900 Bachelor Thesis[Frontend](https://github.com/Aryokh04/jamph-sql-ki-assistent/blob/main/README.md), [Backend](https://github.com/PerErikGronvik/JAMPH-SQL-ki-assistent-backend)
 - My own version of open notebook for reshaped for a different usecase.
-- Started creating my own model that is 100% gdpr and copyright since that does not exist. Do you have money or compute ?
+- [A repo set up for using Claude as a math tutor in VS Code](https://github.com/PerErikGronvik/EASY_Claude_math_tutor)
 - MAMO2100 Quantum mechanics project
 
 Hackatons:
