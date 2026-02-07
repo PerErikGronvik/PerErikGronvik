@@ -31,7 +31,9 @@ Entire self made self study not offiacial course material
 
 Projects:
 - DATA3750 Anvendt kunstig intelligens og data science prosjekt - Will be published after NDA expires
-- DATA3900 Bachelor Thesis[Frontend](https://github.com/Aryokh04/jamph-sql-ki-assistent/blob/main/README.md), [Backend](https://github.com/PerErikGronvik/JAMPH-SQL-ki-assistent-backend)
+- DATA3900 Alle komponentene i Bachelorprojektet kan finnes her [Bachelor](https://github.com/Aryokh04/jamph-sql-ki-assistent)
+  - Til Bachelorprojektet laget jeg en [cross platform CPU only ai trener](https://github.com/PerErikGronvik/Jamph-ML-Trainer) for enkel kvantifisering til huggingface.
+  - På Bacheloren har jeg ansvaret for systemarkitekturen og som ai spesialist.
 - My own version of open notebook for reshaped for a different usecase.
 - [A repo set up for using Claude as a math tutor in VS Code](https://github.com/PerErikGronvik/EASY_Claude_math_tutor)
 - MAMO2100 Quantum mechanics project
