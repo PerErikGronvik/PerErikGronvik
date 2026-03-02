@@ -62,3 +62,5 @@ Events 2026
 - AI Women Norway - Showcase - Hosted by a friend
 - ↇitio - Foredrag: Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet - Hosted by me and Ditio 
 - ↇitio - Beddriftpresentasjon med Gjensidige
+- Nito/Ditio - Hosted: Åsmund Eldhuset in a advanced Git course. 26. feb
+- 
