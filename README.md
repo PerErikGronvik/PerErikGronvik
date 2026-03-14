@@ -1,7 +1,7 @@
 # Welcome to Per Erik Grønvik's profile 👋
 
 ### Languages/tools I have used
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,mysql,sqlite,git,github,bash,powershell,linux,docker,matlab,idea,pycharm,githubactions,github,ai,kotlin,kubernetes,maven,mint,nginx,npm,pnpm,powershell,php,pytorch,react,sqlite,sklearn,ubuntu,vercel,vite,windows,wordpress,vscode&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,pytorch,sklearn,python,cpp,java,js,html,css,php,kotlin,react,matlab,mysql,sqlite,git,github,githubactions,bash,powershell,linux,ubuntu,windows,docker,kubernetes,maven,npm,pnpm,vite,nginx,vercel,wordpress,idea,pycharm,vscode,mint&perline=12)](https://skillicons.dev)
 
 ## Currently studying at Oslo Metropolitan University (OsloMet) 3. Year
 <details>
