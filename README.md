@@ -1,9 +1,19 @@
 # Welcome to Per Erik Grønvik's profile 👋
+Statistics & Data Developer @ Statistics Norway
+MSc Cloud-based Services and Operations @ OsloMet
+BEng Mathematical Modelling & Data Science @ OsloMet
 
-### Languages/tools I have used
-[![My Skills](https://skillicons.dev/icons?i=ai,pytorch,sklearn,python,cpp,java,js,html,css,php,kotlin,react,matlab,mysql,sqlite,git,github,githubactions,bash,powershell,linux,ubuntu,windows,docker,kubernetes,maven,npm,pnpm,vite,nginx,vercel,wordpress,idea,pycharm,vscode,mint&perline=12)](https://skillicons.dev)
+I like exploring systems across the stack, from infrastructure and software engineering to data and AI. I enjoy learning outside my specialties because it gives me a broader perspective on the systems I work with and helps me understand how everything fits together.
 
-## Currently studying at Oslo Metropolitan University (OsloMet) 3. Year
+### Specialties
+[![Specialties](https://skillicons.dev/icons?i=python,kotlin,java,cpp,ktor,sklearn,pytorch,postgres,mysql,sqlite,linux,bash,docker,git,github,githubactions&perline=16)](https://skillicons.dev)
+<!-- Also: SQL, Pandas, NumPy, Jupyter, BigQuery, CI/CD, REST APIs, LLMs -->
+
+### Technologies I've worked with
+[![Technologies](https://skillicons.dev/icons?i=ai,react,js,html,css,nodejs,vite,npm,pnpm,gcp,kubernetes,nix,nginx,powershell,maven,gradle,cmake,matlab,anaconda,postman,ubuntu,windows,vercel,idea,pycharm,vscode&perline=16)](https://skillicons.dev)
+<!-- Also: NixOS, K3s, Helm, Ollama, pgvector, Tailscale, SSH, systemd, Docker Compose, tmux, WSL, BigQuery -->
+
+
 <details>
 <summary><strong> 🤖 AI Courses </strong></summary>
    <br>
@@ -87,36 +97,3 @@
         <li>Service now 2025 Oslo 14 -16 Mars 2025 - 1 Place</li>
     </ul>
 </details>
-
-<details><summary><strong> 🎤 Events 2026 </strong></summary>
-  <br>
-    <ul>
-        <li>ↇitio - Bedriftsbesøk Twoday Bedriftpresentasjon og rebus </li>
-        <li>Nito/ↇitio - I arranged Tech talk, the speaker was Åsmund Eldhuset in a advanced Git course. 26. feb</li>
-        <li>ↇitio - Beddriftpresentasjon med Gjensidige</li>
-        <li>Fagtordsag med NAV - Vibbekoding</li>
-        <li>ↇitio - I arranged. Tech talk: Tekniske intervjuer - hvordan lykkes med kodeoppgaver og høyere kodekvalitet Speaker: Derviş Mansuroğlu </li>
-        <li>AI Women Norway - Showcase - Hosted by a friend</li>
-    </ul>
-</details>
-
-
-<details>
-  <summary><strong> 🎤 Events 2025</strong></summary>
-  <br>
-    <ul>
-        <li>MLOps Oslo Community Meetup, November 11</li>
-        <li>Bedriftspresentasjon med Thales - OTS</li>
-        <li>Økonomi for små foreninger - SIO</li>
-        <li>Utviklere som samfunnsbyggere - Tekna</li>
-        <li>Data Saturday, 30 August 2025</li>
-        <li>Dagen @ IFI UIO</li>
-        <li>Næringslivsdagen OsloMet</li>
-        <li>Mad ⚫ - Meetup #22: Robotics and Audio Torsdag, 4. september </li>
-        <li>Mad ⚫ Meetup #21 Torsdag, 26. juni</li>
-        <li>SHE Conference 2025</li>
-        <li>Mad ⚫ Meetup #18 Torsdag, 27. mars</li>
-        <li>Kreativ AI Meetup #9 Tirsdag, 4. mars</li>
-    </ul>
-</details>
-
