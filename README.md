@@ -1,6 +1,6 @@
 # Welcome to Per Erik Grønvik's profile 👋
-Statistics & Data Developer @ Statistics Norway
-MSc Cloud-based Services and Operations @ OsloMet
+Statistics & Data Developer @ Statistics Norway <br>
+MSc Cloud-based Services and Operations @ OsloMet <br>
 BEng Mathematical Modelling & Data Science @ OsloMet
 
 I like exploring systems across the stack, from infrastructure and software engineering to data and AI. I enjoy learning outside my specialties because it gives me a broader perspective on the systems I work with and helps me understand how everything fits together.
@@ -10,9 +10,8 @@ I like exploring systems across the stack, from infrastructure and software engi
 <!-- Also: SQL, Pandas, NumPy, Jupyter, BigQuery, CI/CD, REST APIs, LLMs -->
 
 ### Technologies I've worked with
-[![Technologies](https://skillicons.dev/icons?i=ai,react,js,html,css,nodejs,vite,npm,pnpm,gcp,kubernetes,nix,nginx,powershell,maven,gradle,cmake,matlab,anaconda,postman,ubuntu,windows,vercel,idea,pycharm,vscode&perline=16)](https://skillicons.dev)
-<!-- Also: NixOS, K3s, Helm, Ollama, pgvector, Tailscale, SSH, systemd, Docker Compose, tmux, WSL, BigQuery -->
-
+[![Technologies](https://skillicons.dev/icons?i=react,js,html,css,nodejs,vite,npm,pnpm,gcp,kubernetes,nix,nginx,powershell,maven,gradle,cmake,matlab,anaconda,postman,latex,ubuntu,windows,vercel,idea,pycharm,vscode&perline=16)](https://skillicons.dev)
+<!-- Also: NixOS, K3s, Helm, Ollama, pgvector, Tailscale, SSH, systemd, Docker Compose, tmux, WSL -->
 
 <details>
 <summary><strong> 🤖 AI Courses </strong></summary>
