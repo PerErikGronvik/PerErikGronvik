@@ -20,7 +20,7 @@ Also: NixOS, K3s, Helm, Ollama, pgvector, Tailscale, SSH, systemd, Docker Compos
  <br>
    <ul>
 <li><a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4410/2026/H%C3%98ST">ACIT4410 Agile Service Delivery and Developer Operations - 10 ECTS</li>
-<li><a href=" https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4420/2026/H%C3%98ST"> ACIT4420 Problem-Solving with Scripting - 10 ECTS</li>
+<li><a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4420/2026/H%C3%98ST"> ACIT4420 Problem-Solving with Scripting - 10 ECTS</li>
 <li><a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4100/2026/H%C3%98ST"> ACIT4100 Understanding and Communicating Research - 10 ECTS </li>
 </ul>
 </details>
