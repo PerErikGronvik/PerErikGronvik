@@ -7,11 +7,20 @@ I like exploring systems across the stack, from infrastructure and software engi
 
 ### Specialties
 [![Specialties](https://skillicons.dev/icons?i=python,kotlin,java,cpp,ktor,sklearn,pytorch,postgres,mysql,sqlite,linux,bash,docker,git,github,githubactions&perline=16)](https://skillicons.dev)
-<!-- Also: SQL, Pandas, NumPy, Jupyter, BigQuery, CI/CD, REST APIs, LLMs -->
+- Also: SQL, Pandas, NumPy, Jupyter, BigQuery, CI/CD, REST APIs, LLMs
 
 ### Technologies I've worked with
 [![Technologies](https://skillicons.dev/icons?i=react,js,html,css,nodejs,vite,npm,pnpm,gcp,kubernetes,nix,nginx,powershell,maven,gradle,cmake,matlab,anaconda,postman,latex,ubuntu,windows,vercel,idea,pycharm,vscode&perline=16)](https://skillicons.dev)
-<!-- Also: NixOS, K3s, Helm, Ollama, pgvector, Tailscale, SSH, systemd, Docker Compose, tmux, WSL -->
+- Also: NixOS, K3s, Helm, Ollama, pgvector, Tailscale, SSH, systemd, Docker Compose, tmux, WSL
+
+<summary><strong> 🎓 Masters Cloud </strong></summary>
+ <br>
+   <ul>
+[Agile Service Delivery and Developer Operations](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4410/2026/H%C3%98ST) - ACIT4410 - 10 ECTS
+[Problem-Solving with Scripting](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4420/2026/H%C3%98ST) - ACIT4420 - 10 ECTS
+[Understanding and Communicating Research](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4100/2026/H%C3%98ST) - ACIT4100 - 10 ECTS - Compulsory
+</ul>
+
 
 <details>
 <summary><strong> 🤖 AI Courses </strong></summary>
