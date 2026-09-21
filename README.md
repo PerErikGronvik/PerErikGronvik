@@ -72,25 +72,16 @@ I like exploring systems across the stack, from infrastructure and software engi
     </ul>
 </details>
 
-<details><summary><strong> 👥 Involvement </strong></summary>
-  <br>
-    <ul>
-        <li>Voulenteer in union and student accociation. Arranged tech talks, goKart, and assisted with other activities.</li>
-        <li>Trought faculty, conversation with management and by hosting tech talks i influenced corricilum to include more Docker, Git, package managers and virtual enviroments.</li>
-        <li>Board member Nito, union</li>
-        <li>Board member Ditio, student accosiation</li>
-        <li>Education council step in member </li>
-    </ul>
-</details>
 
 <details><summary><strong> 🧠 Projects and 🏆 hackatons </strong></summary>
   <br>
     <ul>
+        <li>Hack4SSB 2026 - Opencode agent </li>
         <li>DATA3900 Bachelor Thesis - 20 Ects</li>
         <li>DATA3750 Anvendt kunstig intelligens og data science prosjekt - Will be published after NDA expires</li>
         <li>A repo set up for using Claude as a math tutor in VS Code</li>
         <li>MAMO2100 Quantum mechanics project</li>
-        <li>2 hackaton på en gang? </li>
+        <li>Hackaton om kreft med Nito </li>
         <li>Telenor and Schanider hackaton - Student hub and Nito - Oslo 2025</li>
         <li>LLama Hackaton 2025 by Meta 1 - 3 Februar 2025 - top 6</li>
         <li>Service now 2025 Oslo 14 -16 Mars 2025 - 1 Place</li>
